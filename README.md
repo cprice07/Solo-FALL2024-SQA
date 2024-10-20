@@ -1,2 +1,7 @@
-# Solo-FALL2024-SQA
-Corah Price - czp0085
+# Forensic Anti-patterns in Machine Learning Engineering 
+
+## Farzana Ahmed Bhuiyan and Akond Rahman 
+
+### Details 
+
+> Demo video for the work in progress: https://drive.google.com/file/d/14lcIbDCIfHu8chqEOS7IX-yEckDFjT8z/view?usp=sharing
